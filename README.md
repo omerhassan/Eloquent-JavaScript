@@ -14,3 +14,4 @@ Written by Marijn Haverbeke.
 
 1. Values, Types, and Operators
 2. [Program Structure](https://github.com/omerhassan/Eloquent-JavaScript/tree/master/02.%20Program%20Structure)
+3. [Functions](https://github.com/omerhassan/Eloquent-JavaScript/tree/master/03.%20Functions)
